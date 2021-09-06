@@ -6,8 +6,8 @@ Aplicación que permite ver el precio del bitcoin en dólares  tiempo real, actu
 ##Imagenes
 
 <p>
-<img src="https://github.com/eduardc23/bitcoin_app/home.png" alt="feed example" width="200">
-<img src="https://github.com/eduardc23/bitcoin_app/details.png" alt="feed example" width="200">
+<img src="https://github.com/eduardc23/bitcoin_app/blob/master/home.png" alt="feed example" width="200">
+<img src="https://github.com/eduardc23/bitcoin_app/blob/master/details.png" alt="feed example" width="200">
 </p>
 
 ## ¿Cómo usar? 
